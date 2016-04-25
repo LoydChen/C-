@@ -1,0 +1,33 @@
+2016-04-23 14:53:40,787: WARN RootName : warn hahaha
+2016-04-23 15:05:08,969: WARN RootName : warn hahaha
+2016-04-23 15:05:08,969: WARN RootName : Mylog warn
+2016-04-23 15:10:43,122: WARN RootName : warn hahaha
+2016-04-23 15:10:43,122: WARN RootName : Mylog warn
+2016-04-23 15:10:43,122: DEBUG RootName : Mylog debug
+2016-04-23 15:10:43,122: INFO RootName : Mylog info
+2016-04-23 15:10:43,122: ERROR RootName : Mylog error
+_LINE_ 2016-04-23 15:15:41,449: WARN RootName : warn hahaha
+_LINE_ 2016-04-23 15:15:41,450: WARN RootName : Mylog warn
+_LINE_ 2016-04-23 15:15:41,450: DEBUG RootName : Mylog debug
+_LINE_ 2016-04-23 15:15:41,450: INFO RootName : Mylog info
+_LINE_ 2016-04-23 15:15:41,450: ERROR RootName : Mylog error
+2016-04-23 15:19:36,179: WARN RootName : warn hahaha
+2016-04-23 15:19:36,180: WARN RootName : Mylog warn
+2016-04-23 15:19:36,180: DEBUG RootName : Mylog debug
+2016-04-23 15:19:36,180: INFO RootName : Mylog info
+2016-04-23 15:19:36,180: ERROR RootName : Mylog error
+2016-04-23 15:20:50,395: WARN RootName : warn hahaha
+2016-04-23 15:20:50,395: WARN RootName : Mylog warn
+2016-04-23 15:20:50,395: DEBUG RootName : Mylog debug
+2016-04-23 15:20:50,395: INFO RootName : Mylog info
+2016-04-23 15:20:50,395: ERROR RootName : Mylog error
+2016-04-23 15:27:18,045: WARN RootName : warn hahaha
+2016-04-23 15:27:18,046: WARN RootName : Mylog warn
+2016-04-23 15:27:18,046: DEBUG RootName : Mylog debug
+2016-04-23 15:27:18,046: INFO RootName : Mylog info
+2016-04-23 15:27:18,046: ERROR RootName : Mylog error
+2016-04-23 15:27:46,763: WARN RootName : warn hahaha
+2016-04-23 15:27:46,764: WARN RootName : Mylog warn
+2016-04-23 15:27:46,764: DEBUG RootName : Mylog debug
+2016-04-23 15:27:46,764: INFO RootName : Mylog info
+2016-04-23 15:27:46,764: ERROR RootName : Mylog error
